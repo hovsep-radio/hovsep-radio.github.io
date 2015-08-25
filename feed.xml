@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title><![CDATA[Музыкальный солидол]]></title>
+    <link>http://yourdomain.com</link>
+    <language>ru-ru</language>
+    <copyright><![CDATA[Yuri Kovalev]]></copyright>
+    <itunes:author><![CDATA[Yuri Kovalev]]></itunes:author>
+    <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+    <description><![CDATA[Музыкальный солидол - лучший подкаст о музыке
+]]></description>
+    <itunes:explicit>no</itunes:explicit>
+
+    <itunes:owner>
+      <itunes:name>Yuri Kovalev</itunes:name>
+      <itunes:email>yuraorbita@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="https://dl.dropbox.com/s/el266le6z1tbjw6/solidol.jpg" />
+    <itunes:category text="Music" />
+
+    
+    <item>
+      <title><![CDATA[Музыкальный солидол #12 (заключительная серия)]]></title>
+      <description><![CDATA[<audio controls="" style="width: 100%" preload="metadata"><source src="" /></audio>
+]]></description>
+      <link>http://yourdomain.com/jekyll/update/2015/07/28/solidol-12.html</link>
+      <guid>http://yourdomain.com/jekyll/update/2015/07/28/solidol-12.html</guid>
+      <pubDate>2015-07-28 13:10:10 +0300</pubDate>
+      <itunes:author><![CDATA[Yuri Kovalev]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <enclosure url="https://dl.dropbox.com/s/fqnhfxyyqkap3ku/solidol-12.mp3.mp3" type="audio/mp3" length="30512805" />
+    </item>
+    
+    <item>
+      <title><![CDATA[Музыкальный солидол #11 (четвертая часть мюзикла)]]></title>
+      <description><![CDATA[<audio controls="" style="width: 100%" preload="metadata"><source src="" /></audio>
+]]></description>
+      <link>http://yourdomain.com/jekyll/update/2015/07/20/solidol-11.html</link>
+      <guid>http://yourdomain.com/jekyll/update/2015/07/20/solidol-11.html</guid>
+      <pubDate>2015-07-20 13:10:10 +0300</pubDate>
+      <itunes:author><![CDATA[Yuri Kovalev]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <enclosure url="https://dl.dropbox.com/s/tp6pvw3gxcww69h/solidol-11.mp3.mp3" type="audio/mp3" length="26701893" />
+    </item>
+    
+    <item>
+      <title><![CDATA[Музыкальный солидол #10 (третья часть мюзикла)]]></title>
+      <description><![CDATA[<audio controls="" style="width: 100%" preload="metadata"><source src="" /></audio>
+]]></description>
+      <link>http://yourdomain.com/jekyll/update/2015/07/20/solidol-10.html</link>
+      <guid>http://yourdomain.com/jekyll/update/2015/07/20/solidol-10.html</guid>
+      <pubDate>2015-07-20 13:10:10 +0300</pubDate>
+      <itunes:author><![CDATA[Yuri Kovalev]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <enclosure url="https://dl.dropbox.com/s/015h1qhpsj3897z/solidol-10.mp3.mp3" type="audio/mp3" length="27080793" />
+    </item>
+    
+    <item>
+      <title><![CDATA[Музыкальный солидол #9 (вторая часть мюзикла)]]></title>
+      <description><![CDATA[<audio controls="" style="width: 100%" preload="metadata"><source src="" /></audio>
+]]></description>
+      <link>http://yourdomain.com/jekyll/update/2015/07/13/solidol-9.html</link>
+      <guid>http://yourdomain.com/jekyll/update/2015/07/13/solidol-9.html</guid>
+      <pubDate>2015-07-13 13:10:10 +0300</pubDate>
+      <itunes:author><![CDATA[Yuri Kovalev]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <enclosure url="https://dl.dropbox.com/s/es8grapph03lwrd/solidol-9.mp3.mp3" type="audio/mp3" length="28828341" />
+    </item>
+    
+    <item>
+      <title><![CDATA[Музыкальный солидол #8 (первая часть мюзикла)]]></title>
+      <description><![CDATA[<audio controls="" style="width: 100%" preload="metadata"><source src="" /></audio>
+]]></description>
+      <link>http://yourdomain.com/jekyll/update/2015/07/13/solidol-8.html</link>
+      <guid>http://yourdomain.com/jekyll/update/2015/07/13/solidol-8.html</guid>
+      <pubDate>2015-07-13 13:10:10 +0300</pubDate>
+      <itunes:author><![CDATA[Yuri Kovalev]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <enclosure url="https://dl.dropbox.com/s/iefeymd6xsto3lx/solidol-8.mp3.mp3" type="audio/mp3" length="34214284" />
+    </item>
+    
+    <item>
+      <title><![CDATA[Музыкальный солидол #7]]></title>
+      <description><![CDATA[<audio controls="" style="width: 100%" preload="metadata"><source src="" /></audio>
+]]></description>
+      <link>http://yourdomain.com/jekyll/update/2015/06/29/solidol-7.html</link>
+      <guid>http://yourdomain.com/jekyll/update/2015/06/29/solidol-7.html</guid>
+      <pubDate>2015-06-29 13:10:10 +0300</pubDate>
+      <itunes:author><![CDATA[Yuri Kovalev]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <enclosure url="https://dl.dropbox.com/s/c5f8edl9rqrxz9x/solidol-7.mp3.mp3" type="audio/mp3" length="38805136" />
+    </item>
+    
+    <item>
+      <title><![CDATA[Музыкальный солидол #6]]></title>
+      <description><![CDATA[<audio controls="" style="width: 100%" preload="metadata"><source src="" /></audio>
+]]></description>
+      <link>http://yourdomain.com/jekyll/update/2015/06/22/solidol-6.html</link>
+      <guid>http://yourdomain.com/jekyll/update/2015/06/22/solidol-6.html</guid>
+      <pubDate>2015-06-22 13:10:10 +0300</pubDate>
+      <itunes:author><![CDATA[Yuri Kovalev]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <enclosure url="https://dl.dropbox.com/s/keph8yuh3xe4zdi/solidol-6.mp3.mp3" type="audio/mp3" length="27384819" />
+    </item>
+    
+    <item>
+      <title><![CDATA[Музыкальный солидол #5]]></title>
+      <description><![CDATA[<audio controls="" style="width: 100%" preload="metadata"><source src="" /></audio>
+]]></description>
+      <link>http://yourdomain.com/jekyll/update/2015/06/15/solidol-5.html</link>
+      <guid>http://yourdomain.com/jekyll/update/2015/06/15/solidol-5.html</guid>
+      <pubDate>2015-06-15 13:10:10 +0300</pubDate>
+      <itunes:author><![CDATA[Yuri Kovalev]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <enclosure url="https://dl.dropbox.com/s/kamy0syn39m2159/solidol-5.mp3.mp3" type="audio/mp3" length="28668702" />
+    </item>
+    
+    <item>
+      <title><![CDATA[Музыкальный солидол #4]]></title>
+      <description><![CDATA[<audio controls="" style="width: 100%" preload="metadata"><source src="" /></audio>
+]]></description>
+      <link>http://yourdomain.com/jekyll/update/2015/06/15/solidol-4.html</link>
+      <guid>http://yourdomain.com/jekyll/update/2015/06/15/solidol-4.html</guid>
+      <pubDate>2015-06-15 13:10:10 +0300</pubDate>
+      <itunes:author><![CDATA[Yuri Kovalev]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <enclosure url="https://dl.dropbox.com/s/qa7668m1yzvtsn6/solidol-4.mp3.mp3" type="audio/mp3" length="30786217" />
+    </item>
+    
+    <item>
+      <title><![CDATA[Музыкальный солидол #3]]></title>
+      <description><![CDATA[<audio controls="" style="width: 100%" preload="metadata"><source src="" /></audio>
+]]></description>
+      <link>http://yourdomain.com/jekyll/update/2015/06/08/solidol-3.html</link>
+      <guid>http://yourdomain.com/jekyll/update/2015/06/08/solidol-3.html</guid>
+      <pubDate>2015-06-08 13:10:10 +0300</pubDate>
+      <itunes:author><![CDATA[Yuri Kovalev]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <enclosure url="https://dl.dropbox.com/s/kwj310usvxfwydn/solidol-3.mp3.mp3" type="audio/mp3" length="28503308" />
+    </item>
+    
+    <item>
+      <title><![CDATA[Музыкальный солидол #2]]></title>
+      <description><![CDATA[<audio controls="" style="width: 100%" preload="metadata"><source src="" /></audio>
+]]></description>
+      <link>http://yourdomain.com/jekyll/update/2015/06/01/solidol-2.html</link>
+      <guid>http://yourdomain.com/jekyll/update/2015/06/01/solidol-2.html</guid>
+      <pubDate>2015-06-01 13:10:10 +0300</pubDate>
+      <itunes:author><![CDATA[Yuri Kovalev]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <enclosure url="https://dl.dropbox.com/s/cnywuvm5oqr3ch5/solidol-2.mp3.mp3" type="audio/mp3" length="19352533" />
+    </item>
+    
+    <item>
+      <title><![CDATA[Музыкальный солидол #1]]></title>
+      <description><![CDATA[<audio controls="" style="width: 100%" preload="metadata"><source src="" /></audio>
+]]></description>
+      <link>http://yourdomain.com/jekyll/update/2015/05/25/solidol-1.html</link>
+      <guid>http://yourdomain.com/jekyll/update/2015/05/25/solidol-1.html</guid>
+      <pubDate>2015-05-25 13:10:10 +0300</pubDate>
+      <itunes:author><![CDATA[Yuri Kovalev]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <enclosure url="https://dl.dropboxusercontent.com/s/w3pcx8c6z1zcj53/solidol-1.mp3.mp3" type="audio/mp3" length="26155884" />
+    </item>
+    
+
+    <copyright>
+        Creative Commons - Attribution, Noncommercial, No Derivative Works 3.0 License.
+    </copyright>
+
+  </channel>
+</rss>
